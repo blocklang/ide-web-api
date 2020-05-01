@@ -1,0 +1,14 @@
+{
+    "name": "ide-web-api",
+    "displayName": "",
+    "description": "",
+    "category": "WebAPI",
+    "language": "TypeScript",
+    "std": false,
+    "dev": true,
+    "appType": "web",
+    "api": {
+        "git": "https://github.com/blocklang/api-web-func.git",
+        "version": "0.0.1"
+    }
+}
